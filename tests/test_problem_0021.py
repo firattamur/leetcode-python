@@ -57,7 +57,7 @@ def test_case1(solution: Solution) -> None:
     list2 = list_to_listnode([1, 3, 4])
     expected = list_to_listnode([1, 1, 2, 3, 4, 4])
 
-    actual = solution.mergeTwoLists(list1, list2)
+    actual = solution.merge_two_lists(list1, list2)
 
     assert equals(actual, expected)
 
@@ -67,7 +67,7 @@ def test_case2(solution: Solution) -> None:
     list2 = list_to_listnode([])
     expected = list_to_listnode([])
 
-    actual = solution.mergeTwoLists(list1, list2)
+    actual = solution.merge_two_lists(list1, list2)
 
     assert equals(actual, expected)
 
@@ -77,6 +77,6 @@ def test_case3(solution: Solution) -> None:
     list2 = list_to_listnode([0])
     expected = list_to_listnode([0])
 
-    actual = solution.mergeTwoLists(list1, list2)
+    actual = solution.merge_two_lists(list1, list2)
 
     assert equals(actual, expected)

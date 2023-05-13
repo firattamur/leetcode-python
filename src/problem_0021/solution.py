@@ -36,7 +36,7 @@ from src.problem_0021.listnode import ListNode
 
 
 class Solution:
-    def mergeTwoLists(
+    def merge_two_lists(
         self, list1: Optional[ListNode], list2: Optional[ListNode]
     ) -> Optional[ListNode]:
         """Merge two sorted linked lists.
@@ -71,6 +71,6 @@ class Solution:
             merged.val = l2head.val
             l2head = l2head.next
 
-        merged.next = self.mergeTwoLists(l1head, l2head)
+        merged.next = self.merge_two_lists(l1head, l2head)
 
         return merged
