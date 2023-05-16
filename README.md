@@ -8,17 +8,20 @@ This repository contains my personal solutions for LeetCode problems. All soluti
 
 ## 📝 Table of Contents
 
-| #   | Problem Name                                                                    | Status       |
-| --- | ------------------------------------------------------------------------------- | ------------ |
-| 0001  | [Two Sum](https://leetcode.com/problems/two-sum/)                               | ✅ Completed |
-| 0021  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ Completed |
-| 0022  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)     | ✅ Completed |
-| 0023  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | ✅ Completed |
-| 0024  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)       | ✅ Completed |
-| 0025  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ✅ Completed |
-| 0026  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Completed |
-| 0027  | [Remove Element](https://leetcode.com/problems/remove-element/) | ✅ Completed |
-| 0121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
+| #     | Problem Name                                                                                              | Level         | Status       |
+| ----  | --------------------------------------------------------------------------------------------------------- | ------------  | ------------ |
+| 0001  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | Easy          | ✅ Completed |
+| 0021  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | Easy          | ✅ Completed |
+| 0022  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                               | Medium        | ✅ Completed |
+| 0023  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                               | Hard          | ✅ Completed |
+| 0024  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | Medium        | ✅ Completed |
+| 0025  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | Hard          | ✅ Completed |
+| 0026  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy          | ✅ Completed |
+| 0027  | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | Easy          | ✅ Completed |
+| 0121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Easy          | ✅ Completed |
+| 0217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                   | Easy          | ✅ Completed |
+| 0238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)               | Medium        | ✅ Completed |
+
 
 ## 🎯 How to Use
 
