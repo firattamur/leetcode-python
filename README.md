@@ -17,11 +17,11 @@ This repository contains my personal solutions for LeetCode problems. All soluti
 | 0024  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | Medium        | ✅ Completed |
 | 0025  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | Hard          | ✅ Completed |
 | 0026  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy          | ✅ Completed |
+| 0053  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                       | Medium        | ✅ Completed |
 | 0027  | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | Easy          | ✅ Completed |
 | 0121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Easy          | ✅ Completed |
 | 0217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                   | Easy          | ✅ Completed |
 | 0238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)               | Medium        | ✅ Completed |
-
 
 ## 🎯 How to Use
 
